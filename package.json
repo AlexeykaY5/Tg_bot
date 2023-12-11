@@ -1,0 +1,23 @@
+{
+  "name": "tg-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeykaY5/Tg_bot.git"
+  },
+  "author": "Alexey Sosnovski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeykaY5/Tg_bot/issues"
+  },
+  "homepage": "https://github.com/AlexeykaY5/Tg_bot#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.19.2"
+  }
+}
