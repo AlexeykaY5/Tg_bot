@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/AlexeykaY5/Tg_bot#readme",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "grammy": "^1.19.2"
+    "grammy": "^1.19.2",
+    "nodemon": "^3.0.2",
+    "random-js": "^2.1.0"
   }
 }
